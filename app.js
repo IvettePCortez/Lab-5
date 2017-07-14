@@ -123,7 +123,6 @@ console.log(testArray);
 return [productArray[0], productString];
 }
 
-// Here is the test for multiplyArray(); uncomment it to run it
  testMultiplyArray(2,3,4);
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. You're done! Submit the link to the repo following the instructions in Canvas.
